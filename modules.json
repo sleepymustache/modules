@@ -1,149 +1,146 @@
 {
-	"modules": [
-		{ 
-			"name" : "CSV Modules", 
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-csv",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-csv/master/README.md",
-			"category": "Data Storage and Manipulation",
-			"dependencies": []
-		}, { 
-			"name" : "DB Grid", 
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-dbgrid",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-dbgrid/master/README.md",
-			"category": "Data Storage and Manipulation",
-			"dependencies": [
-				"DB"
-			]
-		}, { 
-			"name" : "DB",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-db",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-db/master/README.md",
-			"category": "Data Storage and Manipulation",
-			"dependencies": []
-		}, { 
-			"name" : "File System DB", 
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-file-system-database",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-file-system-database/master/README.md",
-			"category": "Data Storage and Manipulation",
-			"dependencies": []
-		}, {
-			"name": "Template Globals",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-template-globals",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-template-globals/master/README.md",
-			"category": "Templating",
-			"dependencies": []
-		}, {
-			"name": "URL Class",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-urlclass",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-urlclass/master/README.md",
-			"category": "Templating",
-			"dependencies": []
-		}, {
-			"name": "Form Builder",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-form-builder",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-form-builder/master/README.md",
-			"category": "Templating",
-			"dependencies": []
-		}, {
-			"name": "Head Inserter",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-head-inserter",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-head-inserter/master/README.md",
-			"category": "Templating",
-			"dependencies": []
-		}, {
-			"name": "Navigation",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-navigation",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-navigation/master/README.md",
-			"category": "Templating",
-			"dependencies": []
-		}, {
-			"name": "Performance",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-performance",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-performance/master/README.md",
-			"category": "Performance",
-			"dependencies": []
-		}, {
-			"name": "CSS Compress",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-css-compress",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-css-compress/master/README.md",
-			"category": "Performance",
-			"dependencies": []
-		}, {
-			"name": "HTML Compress",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-html-compress",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-html-compress/master/README.md",
-			"category": "Performance",
-			"dependencies": []
-		}, {
-			"name": "Static Site Cache",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-static-site-cache",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-static-site-cache/master/README.md",
-			"category": "Performance",
-			"dependencies": []
-		}, {
-			"name": "Memcache",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-memcache",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-memcache/master/README.md",
-			"category": "",
-			"dependencies": []
-		}, {
-			"name": "Mailer",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-mailer",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-mailer/master/README.md",
-			"category": "Misc",
-			"dependencies": []
-		}, {
-			"name": "Mobile Detection",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-mobile-detection",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-mobile-detection/master/README.md",
-			"category": "Misc",
-			"dependencies": []
-		}, {
-			"name": "Hide Staging",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-hide-staging",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-hide-staging/master/README.md",
-			"category": "Misc",
-			"dependencies": [
-				"Head Inserter"
-			]
-		}, {
-			"name": "IP2Country",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-ip2country",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-ip2country/master/README.md",
-			"category": "Misc",
-			"dependencies": []
-		}, {
-			"name": "Authentication",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-authentication",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-authentication/master/README.md",
-			"category": "Misc",
-			"dependencies": []
-		}, {
-			"name": "Force Download",
-			"version": 0.0,
-			"url": "https://github.com/sleepymustache/module-download",
-			"readme": "https://raw.githubusercontent.com/sleepymustache/module-download/master/README.md",
-			"category": "Misc",
-			"dependencies": []
-		}
-	]
+	"CSV Modules": {  
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-csv",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-csv/master/README.md",
+		"category": "Data Storage and Manipulation",
+		"dependencies": []
+	}, 
+	 "DB Grid": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-dbgrid",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-dbgrid/master/README.md",
+		"category": "Data Storage and Manipulation",
+		"dependencies": [
+			"DB"
+		]
+	},
+	 "DB": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-db",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-db/master/README.md",
+		"category": "Data Storage and Manipulation",
+		"dependencies": []
+	},
+	"File System DB": {  
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-file-system-database",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-file-system-database/master/README.md",
+		"category": "Data Storage and Manipulation",
+		"dependencies": []
+	}, 
+	"Template Globals": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-template-globals",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-template-globals/master/README.md",
+		"category": "Templating",
+		"dependencies": []
+	}, 
+	"URL Class": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-urlclass",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-urlclass/master/README.md",
+		"category": "Templating",
+		"dependencies": []
+	}, 
+	"Form Builder": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-form-builder",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-form-builder/master/README.md",
+		"category": "Templating",
+		"dependencies": []
+	}, 
+	"Head Inserter": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-head-inserter",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-head-inserter/master/README.md",
+		"category": "Templating",
+		"dependencies": []
+	}, 
+	"Navigation": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-navigation",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-navigation/master/README.md",
+		"category": "Templating",
+		"dependencies": []
+	}, 
+	"Performance": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-performance",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-performance/master/README.md",
+		"category": "Performance",
+		"dependencies": []
+	}, 
+	"CSS Compress": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-css-compress",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-css-compress/master/README.md",
+		"category": "Performance",
+		"dependencies": []
+	}, 
+	"HTML Compress": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-html-compress",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-html-compress/master/README.md",
+		"category": "Performance",
+		"dependencies": []
+	}, 
+	"Static Site Cache": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-static-site-cache",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-static-site-cache/master/README.md",
+		"category": "Performance",
+		"dependencies": []
+	}, 
+	"Memcache": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-memcache",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-memcache/master/README.md",
+		"category": "",
+		"dependencies": []
+	}, 
+	"Mailer": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-mailer",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-mailer/master/README.md",
+		"category": "Misc",
+		"dependencies": []
+	}, 
+	"Mobile Detection": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-mobile-detection",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-mobile-detection/master/README.md",
+		"category": "Misc",
+		"dependencies": []
+	}, 
+	"Hide Staging": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-hide-staging",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-hide-staging/master/README.md",
+		"category": "Misc",
+		"dependencies": [
+			"Head Inserter"
+		]
+	}, 
+	"IP2Country": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-ip2country",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-ip2country/master/README.md",
+		"category": "Misc",
+		"dependencies": []
+	}, 
+	"Authentication": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-authentication",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-authentication/master/README.md",
+		"category": "Misc",
+		"dependencies": []
+	}, 
+	"Force Download": {
+		"version": 0.0,
+		"url": "https://github.com/sleepymustache/module-download",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-download/master/README.md",
+		"category": "Misc",
+		"dependencies": []
+	}
 }
