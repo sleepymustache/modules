@@ -135,11 +135,18 @@
 		"readme": "https://raw.githubusercontent.com/sleepymustache/module-authentication/master/README.md",
 		"category": "Misc",
 		"dependencies": []
-	}, 
-	"Force Download": {
-		"version": 0.0,
-		"url": "https://github.com/sleepymustache/module-download",
-		"readme": "https://raw.githubusercontent.com/sleepymustache/module-download/master/README.md",
+	},
+    "Force Download": {
+        "version": 0.0,
+        "url": "https://github.com/sleepymustache/module-download",
+        "readme": "https://raw.githubusercontent.com/sleepymustache/module-download/master/README.md",
+        "category": "Misc",
+        "dependencies": [ ]
+    },
+    "Twitter": {
+		"version": 1.0,
+		"url": "https://github.com/sleepymustache/module-twitter",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-twitter/master/README.md",
 		"category": "Misc",
 		"dependencies": []
 	}

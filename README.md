@@ -31,3 +31,4 @@
 * [IP2Country](https://github.com/sleepymustache/module-ip2country)
 * [Authentication](https://github.com/sleepymustache/module-authentication)
 * [Force Download](https://github.com/sleepymustache/module-download)
+* [Twitter](https://github.com/sleepymustache/module-twitter)
