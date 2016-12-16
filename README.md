@@ -22,7 +22,7 @@
 * [HTML Compress](https://github.com/sleepymustache/module-html-compress)
 * [Static Site Cache](https://github.com/sleepymustache/module-static-site-cache)
 * [Memcache](https://github.com/sleepymustache/module-memcache)
- 
+
 ## Misc
 
 * [Mailer](https://github.com/sleepymustache/module-mailer)
@@ -32,3 +32,4 @@
 * [Authentication](https://github.com/sleepymustache/module-authentication)
 * [Force Download](https://github.com/sleepymustache/module-download)
 * [Twitter](https://github.com/sleepymustache/module-twitter)
+* [Dynamic Linker](https://github.com/sleepymustache/module-dynamic-linker)

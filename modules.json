@@ -156,5 +156,14 @@
 		"readme": "https://raw.githubusercontent.com/sleepymustache/module-whoops/master/README.md",
 		"category": "Debugging",
 		"dependencies": []
+	},
+	"Dynamic Linker": {
+		"version": 1.0,
+		"url": "https://github.com/sleepymustache/module-dynamic-linker.git",
+		"readme": "https://github.com/sleepymustache/module-dynamic-linker/blob/master/readme.md",
+		"category": "Misc",
+		"dependencies": [
+			"Mobile Detection"
+		]
 	}
 }
