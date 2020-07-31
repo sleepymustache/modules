@@ -152,14 +152,14 @@
 	},
 	"Whoops": {
 		"version": 2.0,
-		"url": "https://github.com/sleepymustache/module-whoops.git.git",
+		"url": "https://github.com/sleepymustache/module-whoops.git",
 		"readme": "https://raw.githubusercontent.com/sleepymustache/module-whoops/2.x/README.md",
 		"category": "Debugging",
 		"dependencies": []
 	},
 	"Dynamic Linker": {
 		"version": 2.0,
-		"url": "https://github.com/sleepymustache/module-dynamic-linker.git.git",
+		"url": "https://github.com/sleepymustache/module-dynamic-linker.git",
 		"readme": "https://raw.githubusercontent.com/sleepymustache/module-dynamic-linker/blob/2.x/readme.md",
 		"category": "Misc",
 		"dependencies": [
