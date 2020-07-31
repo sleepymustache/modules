@@ -1,0 +1,169 @@
+{
+	"CSV": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-csv/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-csv/2.x/README.md",
+		"category": "Data Storage and Manipulation",
+		"dependencies": []
+	},
+	 "DB Grid": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-dbgrid/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-dbgrid/2.x/README.md",
+		"category": "Data Storage and Manipulation",
+		"dependencies": [
+			"DB"
+		]
+	},
+	 "DB": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-db/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-db/2.x/README.md",
+		"category": "Data Storage and Manipulation",
+		"dependencies": []
+	},
+	"File System DB": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-file-system-database/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-file-system-database/2.x/README.md",
+		"category": "Data Storage and Manipulation",
+		"dependencies": []
+	},
+	"Template Globals": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-template-globals/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-template-globals/2.x/README.md",
+		"category": "Templating",
+		"dependencies": []
+	},
+	"URL Class": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-urlclass/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-urlclass/2.x/README.md",
+		"category": "Templating",
+		"dependencies": []
+	},
+	"Form Builder": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-form-builder/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-form-builder/2.x/README.md",
+		"category": "Templating",
+		"dependencies": []
+	},
+	"Head Inserter": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-head-inserter/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-head-inserter/2.x/README.md",
+		"category": "Templating",
+		"dependencies": []
+	},
+	"Navigation": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-navigation/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-navigation/2.x/README.md",
+		"category": "Templating",
+		"dependencies": []
+	},
+	"Performance": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-performance/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-performance/2.x/README.md",
+		"category": "Performance",
+		"dependencies": []
+	},
+	"CSS Compress": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-css-compress/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-css-compress/2.x/README.md",
+		"category": "Performance",
+		"dependencies": []
+	},
+	"HTML Compress": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-html-compress/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-html-compress/2.x/README.md",
+		"category": "Performance",
+		"dependencies": []
+	},
+	"Static Site Cache": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-static-site-cache/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-static-site-cache/2.x/README.md",
+		"category": "Performance",
+		"dependencies": []
+	},
+	"Memcache": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-memcache/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-memcache/2.x/README.md",
+		"category": "",
+		"dependencies": []
+	},
+	"Mailer": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-mailer/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-mailer/2.x/README.md",
+		"category": "Misc",
+		"dependencies": []
+	},
+	"Mobile Detection": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-mobile-detection/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-mobile-detection/2.x/README.md",
+		"category": "Misc",
+		"dependencies": []
+	},
+	"Hide Staging": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-hide-staging/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-hide-staging/2.x/README.md",
+		"category": "Misc",
+		"dependencies": [
+			"Head Inserter"
+		]
+	},
+	"IP2Country": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-ip2country/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-ip2country/2.x/README.md",
+		"category": "Misc",
+		"dependencies": []
+	},
+	"Authentication": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-authentication/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-authentication/2.x/README.md",
+		"category": "Misc",
+		"dependencies": []
+	},
+    "Force Download": {
+        "version": 2.0,
+        "url": "https://github.com/sleepymustache/module-download/tree/2.x",
+        "readme": "https://raw.githubusercontent.com/sleepymustache/module-download/2.x/README.md",
+        "category": "Misc",
+        "dependencies": [ ]
+    },
+    "Twitter": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-twitter/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-twitter/2.x/README.md",
+		"category": "Misc",
+		"dependencies": []
+	},
+	"Whoops": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-whoops.git/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-whoops/2.x/README.md",
+		"category": "Debugging",
+		"dependencies": []
+	},
+	"Dynamic Linker": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-dynamic-linker.git/tree/2.x",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-dynamic-linker/blob/2.x/readme.md",
+		"category": "Misc",
+		"dependencies": [
+			"Mobile Detection"
+		]
+	}
+}
