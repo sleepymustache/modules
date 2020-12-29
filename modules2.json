@@ -165,5 +165,19 @@
 		"dependencies": [
 			"Mobile Detection"
 		]
+	},
+	"Sitemap": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/module-sitemap",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-sitemap/master/README.md",
+		"category": "Templating",
+		"dependencies": []
+	},
+	"ISI": {
+		"version": 2.0,
+		"url": "https://github.com/sleepymustache/isi",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/isi/master/README.md",
+		"category": "Templating",
+		"dependencies": []
 	}
 }
