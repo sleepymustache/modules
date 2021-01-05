@@ -179,5 +179,12 @@
 		"readme": "https://raw.githubusercontent.com/sleepymustache/isi/master/README.md",
 		"category": "Templating",
 		"dependencies": []
-	}
+	},
+    "Filter ETX": {
+        "version": 2.0,
+        "url": "https://github.com/sleepymustache/module-filter-etx",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-filter-etx/blob/2.x/README.md",
+        "category": "Helpers",
+        "dependencies": []
+    }
 }
