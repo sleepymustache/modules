@@ -165,5 +165,11 @@
 		"dependencies": [
 			"Mobile Detection"
 		]
+	},
+	"Filter ETX": {
+		"version": 1.0,
+		"url": "https://github.com/sleepymustache/module-filter-etx",
+		"readme": "https://raw.githubusercontent.com/sleepymustache/module-filter-etx/master/README.md",
+		"category": "Helpers"
 	}
 }
